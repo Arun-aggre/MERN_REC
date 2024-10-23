@@ -1,1 +1,65 @@
 //welcome studentssssssssssssssssssssssssssssssssssssssssssssssssssssssssadd
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <h2>
+        THE GREAT INDIAN SALES
+    </h2>
+    <div class="tree">
+        <div class="items" >
+            <img src="/media/shop1.jpeg" alt="" height="180px" width="200px">
+        <p><span style="background-color: red; color: white; font-size: 15px;">50%offer</span> don't miss this offer</p>
+        <h1>RS.1900</h1>
+        <p style="color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">front load  </p>
+        <button>buy now</button>
+        </div>
+        <div class="items">
+            <img src="/media/mobile1.png" alt="" height="180px" width="150px" class="mobile">
+            <p><span style="background-color: red; color: white; font-size: 15px; margin-top: 30px;">50%offer</span> don't miss this offer</p>
+            <h3>RS.50000</h3>
+            <p style="color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">apple 18 pro </p>
+            <button>buy now</button>
+        </div>
+        <div class="items">
+            <img src="/media/watch.png" alt="" height="180">
+            <p><span style="background-color: red; color: white; font-size: 15px;">50%offer</span> don't miss this offer</p>
+            <H4>RS.2000</H4>
+            <p style="color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">fasttrack model6 </p>
+            <button>buy now</button>
+        </div>
+        <div class="items">
+            <img src="/media/laptop.png" alt="" height="160" class="thing">
+            <p><span style="background-color: red; color: white; font-size: 15px;">50%offer</span> don't miss this offer</p>
+            <H5>RS.100000</H5>
+            <p style="color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">pavillion model 16</p>
+            <button>buy now</button>
+        </div>
+        <div class="items">
+            <img src="/media/rasperry pie.png" alt="" height="160" class="large">
+            <p><span style="background-color: red; color: white; font-size: 15px;">50%offer</span> don't miss this offer</p>
+            <H5>RS.100000</H5>
+            <p style="color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">pavillion model 16</p>
+            <button>buy now</button>
+        </div>
+        
+            <div class="items">
+                <img src="/media/ardinu.png" alt="" height="" class="thing">
+                 <p><span style="background-color: red; color: white; font-size: 15px;"></span>don't miss the offer</p>
+                 <h6>RS.200000</h6>
+                 <p style="color: black; font-family: 'franklin gothic medium','arial narrow',arial,sans-serif;">raspeery pei</p>
+                 <button>buy now</button>
+                
+                      
+    
+
+        </div>
+           
+        
+</body>
+</html>
