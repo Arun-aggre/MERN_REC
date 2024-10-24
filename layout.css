@@ -1,0 +1,71 @@
+body{
+    background-image: url(/media/paper-bags-different-colors-blue-background-top-view.jpg);
+    background-size: cover;
+}.tree{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap ;
+    background-color: rgb(183, 90, 36);
+    height: px;
+    width: px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.tree h1{
+    height: auto;
+    width: auto;
+    margin-left: 20px;
+}
+
+.items{
+width: px;
+height: px;
+flex-wrap: nowrap;
+background-color: white;
+margin: 8px;
+/* image-rendering: optimizeQuality; */
+
+}
+.thing{
+    margin-top: 10%;
+}
+.mobile{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+p{
+    color: rgb(244, 11, 11);
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    font-size: 30px;
+    margin-top: 10px;
+}
+h4{
+    font-size: 30px;
+    margin-top: 10px;
+} 
+h5{
+    font-size: 30px;
+    margin-top: 10px;
+}
+button{
+    background-color: rgb(255, 0, 0);
+    cursor: grab;
+
+}
+button:hover{
+    background-color: rgb(170, 39, 39);
+}
+.large{
+    margin: top 10px; 
+    
+}
+.well{
+    margin-bottom ;
+    
+}
